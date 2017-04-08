@@ -1,0 +1,23 @@
+{
+  "name": "nodebots-workshop",
+  "version": "1.0.0",
+  "description": "Nodebots Workshop using NodeJS and Johnny-five",
+  "repository": "https://github.com/willmendesneto/nodebots-workshop",
+  "author": {
+    "name": "Will Mendes",
+    "email": "willmendesneto@gmail.com",
+    "url": "https://github.com/willmendesneto"
+  },
+  "homepage": "https://github.com/willmendesneto/nodebots-workshop#readme",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.10.0"
+  },
+  "devDependencies": {
+    "bindings": "^1.2.1",
+    "board-io": "^3.0.5",
+    "firmata": "^0.15.0",
+    "serialport": "^4.0.1"
+  }
+}

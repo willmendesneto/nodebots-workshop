@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+reporter/
+.DS_Store
+*.swp
+*.swo
+*.log
