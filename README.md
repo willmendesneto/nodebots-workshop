@@ -2,6 +2,13 @@
 
 > Nodebots Workshop using NodeJS and Johnny-five
 
+[![slides-badge][slides-badge]][slides]
+[![MIT License][license-badge]][LICENSE]
+[![PRs Welcome][prs-badge]][prs]
+[![Watch on GitHub][github-watch-badge]][github-watch]
+[![Star on GitHub][github-star-badge]][github-star]
+[![Tweet][twitter-badge]][twitter]
+
 
 ## How to install
 
@@ -62,3 +69,23 @@ $ node src/<filename>
 + <https://plus.google.com/+WilsonMendes>
 + <https://twitter.com/willmendesneto>
 + <http://github.com/willmendesneto>
+
+
+[slides]: http://slides.com/willmendesneto/nodebots-workshop
+[slides-badge]: https://cdn.rawgit.com/kentcdodds/custom-badges/2/badges/slides.svg
+
+[license-badge]: https://img.shields.io/badge/license-MIT%20License-blue.svg?style=flat-square
+[license]: https://github.com/willmendesneto/nodebots-workshop/blob/master/LICENSE
+
+[prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
+[prs]: http://makeapullrequest.com
+
+[github-watch-badge]: https://img.shields.io/github/watchers/willmendesneto/nodebots-workshop.svg?style=social
+[github-watch]: https://github.com/willmendesneto/nodebots-workshop/watchers
+
+[github-star-badge]: https://img.shields.io/github/stars/willmendesneto/nodebots-workshop.svg?style=social
+[github-star]: https://github.com/willmendesneto/nodebots-workshop/stargazers
+
+[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20nodebots-workshop%20by%20@willmendesneto%20https://goo.gl/sqZ8dh%20%F0%9F%91%8D
+[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/willmendesneto/nodebots-workshop.svg?style=social
+
