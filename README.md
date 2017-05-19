@@ -45,6 +45,7 @@ Repository using Arduino + Johnny Five + NodeJS used in my Nodebots Workshop.
 
 Slides: [https://slides.com/willmendesneto/nodebots-workshop](https://slides.com/willmendesneto/nodebots-workshop);
 
+Workshop steps, circuit diagram and images: [workshop-steps.md](workshop-steps.md);
 
 ## First steps
 

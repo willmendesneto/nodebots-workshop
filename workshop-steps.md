@@ -1,12 +1,17 @@
 # First example
 ==============
 
+[Back to README.md](README.md)
+
 ## Hello world: make a LED blink
 
 > Because we always have to do our first step :)
 
 The first example is the default hello world in a hardware world, which means that your first goal is make a LED turn on and blink.
 
+Fritzing diagram: [assets/led.fzz](assets/led.fzz)
+
+![First example: make a LED blink](assets/led.svg)
 
 ### Challenges
 
@@ -31,6 +36,10 @@ The first example is the default hello world in a hardware world, which means th
 The second example is based on the first one, but now you need to integrate a new component in the game. The main idea here is turn on the light in your LED when you click the button and turn off the LED light when you release the button.
 
 
+Fritzing diagram: [assets/led-button.fzz](assets/led-button.fzz)
+
+![Second example: Click the button, turn on the lights: magic happens](assets/led-button.svg)
+
 ### Challenges
 
 - Start using `johnny-five` button class;
@@ -52,6 +61,10 @@ The second example is based on the first one, but now you need to integrate a ne
 
 In the third example you will know a new component called piezo/buzzer and add another user iteraction in your game. When you click the button, you need to turn on the LED and make the piezo emit a sound and when you release the button you should turn off the LED and stop the piezo song.
 
+
+Fritzing diagram: [assets/led-button-piezo.fzz](assets/led-button-piezo.fzz)
+
+![Third example: Turn on the lights + beep when​ a button is clicked](assets/led-button-piezo.svg)
 
 ### Challenges
 
@@ -79,6 +92,10 @@ In the last step you should make a simon game using all the concepts which you a
 - How to start the game again, if user pressed the wrong button?
 
 
+Fritzing diagram: [assets/memory-game.fzz](assets/memory-game.fzz)
+
+![Forth example: Simon game](assets/memory-game.svg)
+
 PS:
 ** Yes, they are the same components as the third example;
 *** We already have the template file. So that we can keep focusing in the game integration steps
@@ -89,3 +106,6 @@ PS:
 - Start integration between different components;
 - Manage behaviours in different components;
 - Reuse ground integration for components;
+
+
+[Back to README.md](README.md)

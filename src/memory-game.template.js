@@ -87,8 +87,11 @@ board.on('ready', function() {
   buttons.on('press', function(button) {
     if (buttonsSequence.length) {
       var index = buttons.indexOf(button);
-      leds[index].on();
+
       console.log('Pressed: button', button.pin, 'led', leds[index].pin);
+
+      // How can I turn on a specific LED?
+
       piezo.play({ song: piezoSongs[index] });
     }
   });
@@ -99,8 +102,7 @@ board.on('ready', function() {
 
       console.log('Released: button', button.pin, 'led', leds[index].pin);
 
-      leds.off();
-      piezo.off();
+      // How can I turn off LEDS and Piezo?
 
       if(buttonsSequence[buttonCounter] === index) {
         buttonCounter++;
