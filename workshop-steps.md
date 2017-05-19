@@ -13,6 +13,12 @@ Fritzing diagram: [assets/led.fzz](assets/led.fzz)
 
 ![First example: make a LED blink](assets/led.svg)
 
+### Steps
+
+- Explain the challenge;
+- Explain about breadboard, resistor, LED and jumpers;
+- Explain johnny-five classes and events;
+
 ### Challenges
 
 - First contact with `johnny-five` package;
@@ -40,6 +46,11 @@ Fritzing diagram: [assets/led-button.fzz](assets/led-button.fzz)
 
 ![Second example: Click the button, turn on the lights: magic happens](assets/led-button.svg)
 
+### Steps
+
+- Explain the challenge;
+- Explain about the button, behaviors and how it works;
+
 ### Challenges
 
 - Start using `johnny-five` button class;
@@ -65,6 +76,12 @@ In the third example you will know a new component called piezo/buzzer and add a
 Fritzing diagram: [assets/led-button-piezo.fzz](assets/led-button-piezo.fzz)
 
 ![Third example: Turn on the lights + beep when​ a button is clicked](assets/led-button-piezo.svg)
+
+### Steps
+
+- Explain the challenge;
+- Explain about the piezo, behaviors and how it works;
+- Show some different sounds that we can use inside Piezo;
 
 ### Challenges
 
@@ -100,6 +117,11 @@ PS:
 ** Yes, they are the same components as the third example;
 *** We already have the template file. So that we can keep focusing in the game integration steps
 **** In this step, you already know everything you want 
+
+### Steps
+
+- Explain the challenge and the idea of simon game;
+- Explain the memory game template, current behaviour and the areas to implement the code;
 
 ### Challenges
 
