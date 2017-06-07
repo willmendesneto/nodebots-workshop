@@ -12,12 +12,12 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "johnny-five": "^0.10.0"
+    "johnny-five": "^0.11.1"
   },
   "devDependencies": {
     "bindings": "^1.2.1",
     "board-io": "^3.0.5",
-    "firmata": "^0.15.0",
+    "firmata": "^0.16.0",
     "serialport": "^4.0.1"
   }
 }
