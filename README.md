@@ -1,5 +1,7 @@
 # Nodebots Workshop
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/willmendesneto/nodebots-workshop.svg)](https://greenkeeper.io/)
+
 > Nodebots Workshop using NodeJS and Johnny-five
 
 [![slides-badge][slides-badge]][slides]
