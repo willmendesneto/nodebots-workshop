@@ -8,6 +8,12 @@
     "email": "willmendesneto@gmail.com",
     "url": "https://github.com/willmendesneto"
   },
+  "scripts": {
+    "first-example": "node src/first-example.js",
+    "second-example": "node src/second-example.js",
+    "third-example": "node src/third-example.js",
+    "memory-game": "node src/memory-game.js"
+  },
   "homepage": "https://github.com/willmendesneto/nodebots-workshop#readme",
   "main": "index.js",
   "license": "MIT",
