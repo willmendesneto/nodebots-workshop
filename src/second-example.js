@@ -6,7 +6,10 @@ board.on('ready', function() {
   var leds = new five.Leds([12]);
   var buttons = new five.Buttons({
     pins: [13],
-    invert: true
+    // In case your buttons are responding to different events
+    // they are probably receiving the eletricity in different points.
+    // To solve that via code you can uncomment the option `invert`
+    // invert: true
   });
 
   buttons.on('press', function(button) {
